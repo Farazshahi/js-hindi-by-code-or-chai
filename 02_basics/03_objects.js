@@ -16,7 +16,7 @@ console.log(jsUser.email);
 console.log(jsUser["email"]);
 console.log(jsUser["full name"]);
 // console.log(jsUser.full name);// if key are written in commas you cnt accs the value through dot(.)
-console.log(jsUser[mySym1]);
+console.log(j sUser[mySym1]);
 console.log(typeof jsUser[mySym1])
 console.log(jsUser)
 jsUser.greetingtwo = function (){
