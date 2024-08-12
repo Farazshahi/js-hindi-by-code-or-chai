@@ -39,7 +39,7 @@ const myObj = {
 }
 
 for (const [key,value] of myObj) {
-    console.log(key,":-",value);
+    // console.log(key,":-",value);ll
     
     
 }
